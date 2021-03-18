@@ -9,4 +9,4 @@
  
  To Run:
   For GUI Application: Open the terminal and enter "python3 CoverLetter/coverLetterWizard.py"
-  For Terminal Interface: Open the terminal and enter "python3 CoverLetter/sletterModifier.py"
+  For Terminal Interface: Open the terminal and enter "python3 CoverLetter/letterModifier.py"
